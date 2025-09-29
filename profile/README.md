@@ -59,6 +59,6 @@ O desenvolvimento da nossa plataforma está a todo vapor! Para se manter atualiz
 <hr>
 
 <div align="center">
-  <p>Para parcerias ou outras questões, entre em contato através do e-mail: <a href="mailto:mandakaruconncorp@gmail.com">mandakaruconn@gmail.com</a></p>
+  <p>Para parcerias ou outras questões, entre em contato através do e-mail: <a href="mailto:mandakaruconncorp@gmail.com">mandakaruconncorp@gmail.com</a></p>
   <p><small>© 2025 Mandakaru Conn | Catolé do Rocha - PB, Brasil</small></p>
 </div>
