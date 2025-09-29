@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img width="2307" height="533" alt="banner" src="https://github.com/user-attachments/assets/f978b9af-f111-4862-baa7-0ea15386a040" />
 
@@ -5,6 +7,12 @@
   
   <h2>A gestão do seu negócio com a força do sertão.</h2>
 </div>
+
+## 🔗 Plataformas (Links úteis)
+
+| Plataforma | Link |  |
+| --- | --- | --- |
+| Gerador de Orçamentos | [Abrir →](https://2aa28620b3fa20533306d801d982400d61d.vercel.app/) | Gerador de Orçamentos Online – crie e compartilhe orçamentos de forma rápida e prática |
 
 <div align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status: Em Desenvolvimento">
