@@ -40,7 +40,7 @@ Nossa plataforma centraliza tudo o que você precisa para uma gestão eficiente 
 Construímos a Mandakaru Conn sobre uma base tecnológica moderna e escalável, garantindo segurança e performance. Nossa arquitetura é dividida em microsserviços para assegurar a evolução contínua da plataforma.
 
 * **Backend:** `Java & Spring Boot`
-* **Frontend:** `React` `HTML` `CSS` `JS` `Tailwind` `WordPress`a
+* **Frontend:** `React` `HTML` `CSS` `JS` `Tailwind` `WordPress`
 * **Banco de Dados:** `PostgreSQL` `My SQL` `MongoDB`
 * **Infraestrutura:** `Docker` `Git` `GitHub`
 
